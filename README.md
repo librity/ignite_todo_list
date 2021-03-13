@@ -1,4 +1,4 @@
-# Rocket Seat Ignite - To-do list
+# Rocket Seat Ignite - To do list
 
 <p align="center">
   <img src=".github/todo_demo.png">
@@ -57,6 +57,10 @@ You can also mark tem as done.
 
 - https://reactjs.org/docs/react-component.html
 - https://prettier.io/docs/en/configuration.html
+
 - https://www.w3schools.com/jsref/jsref_random.asp
 - https://www.dyn-web.com/javascript/arrays/add.php
+- https://inspiredwebdev.com/find-replace-in-array/
+
 - https://stackoverflow.com/questions/154059/how-can-i-check-for-an-empty-undefined-null-string-in-javascript
+- https://stackoverflow.com/questions/54876239/find-and-replace-object-in-array-based-on-id
