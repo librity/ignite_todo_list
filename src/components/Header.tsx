@@ -1,11 +1,13 @@
-import '../styles/header.scss'
+import '../styles/header.scss';
+
+import TodoLogo from './TodoLogo';
 
 export function Header() {
   return (
     <header className="header">
       <div>
-        <img src="/logo.svg" alt="to.do"/>
+        <TodoLogo />
       </div>
     </header>
-  )
+  );
 }

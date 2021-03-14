@@ -4,6 +4,10 @@
   <img src=".github/todo_demo.png">
 </p>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d7c2f84-60a5-4842-983f-7903a001648b/deploy-status)](https://app.netlify.com/sites/romantic-goodall-172e75/deploys)
+
+- Production: https://todo1776.netlify.app/
+
 ## Table of Contents
 
 - [About](#about)
